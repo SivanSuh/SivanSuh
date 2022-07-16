@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m Sivan</h1>
-- <h3>🌱 I’m currently learning ...</h3>
+- <h3>🌱 I’m currently learning everything about frontend</h3>
 - <h3> ⚡ Languages and Tools 🧭</h3>
 - <h3> How to reach me :  <strong><a href="mailto:sivansuh.is@gmail.com">sivansuh.is@gmail.com</a></strong></h3>
 <br>
