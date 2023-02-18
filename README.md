@@ -5,7 +5,7 @@
 <p dir="auto"> I’m currently learning everything about frontend</p>
 </li>
 <li>
-<p dir="auto"> My personel website <a href="http://lesschar.com/" rel="nofollow">lesschar.com</a></p>
+<p dir="auto"> My personel website <a href="https://lesschar.com/" rel="nofollow">lesschar.com</a></p>
 </li>
 <li>
 <p dir="auto"> How to reach me <strong><a href="mailto:sivansuh.isgmail.com">sivansuh.is@gmail.com</a></strong></p>
