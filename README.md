@@ -1,10 +1,9 @@
 <h1 align="center" dir="auto"><a id="user-content-hi--im-emre-kara" class="anchor" aria-hidden="true" href="#hi--im-emre-kara"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Sivan</h1>
-<h3 align="center" dir="auto"><a id="user-content-im-a-frontend-developer" class="anchor" aria-hidden="true" href="#im-a-frontend-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I'm a Software Developer</h3>
-<p>I have over 3 years of professional experience in frontend development, specializing in React, Next.js, Vue, Nuxtjs and TypeScript.
-
-In addition to my professional experience, I design and develop backend services using Node.js and Express in my personal projects.
-
-I am also highly interested in artificial intelligence, particularly in the field of large language models (LLMs).</p>
+<h3 align="center" dir="auto"><a id="user-content-im-a-frontend-developer" class="anchor" aria-hidden="true" href="#im-a-frontend-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
+<p>
+I am a Software Developer with 3+ years of experience building web applications and business solutions. I work across the full stack using modern web technologies, developing frontend interfaces, backend services, and API integrations. I have independently built and launched MVPs, taking products from concept to production. I am passionate about AI and LLM technologies and actively experiment with them to create practical software solutions. I enjoy learning new tools and technologies and applying them to real projects.
+  
+</p>
 
 
 <p ><a href="https://www.linkedin.com/in/sivansuh-12/">Linkedin</a>
@@ -12,110 +11,23 @@ I am also highly interested in artificial intelligence, particularly in the fiel
 
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3.org/html/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/><br/>HTML
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/><br/>CSS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/><br/>Bootstrap
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind
-      </a>
-    </td>
-  </tr>
+<tr>
+<th> Frontend</th>
+<th>Backend & Databases</th>
+<th>Tools</th>
+</tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/><br/>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/><br/>Redux Toolkit
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"/><br/>Next
-      </a>
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vue" height="32" />
+</td>
 
-  <tr>
-    <td align="center">
-      <a href="https://nodejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vuejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40"/><br/>Vue
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nuxt.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="40"/><br/>Nuxt
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://postman.com">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman
-      </a>
-    </td>
-  </tr>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,expressjs" height="32" />
+</td>
 
-  
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python (FastApi)
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br/>PostgreSQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40"/><br/>Docker
-      </a>
-    </td>
-  </tr>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman" height="32" />
+</td>
+</tr>
 </table>
-
-
-</table>
-
